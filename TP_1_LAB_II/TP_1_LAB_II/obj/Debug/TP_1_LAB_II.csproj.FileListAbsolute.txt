@@ -1,0 +1,10 @@
+D:\Stellisano\TP_1_LAB_II\TP_1_LAB_II\bin\Debug\TP_1_LAB_II.exe.config
+C:\Users\Nico\Documents\GitHub\Clase_3\TP_1_LAB_II\TP_1_LAB_II\bin\Debug\TP_1_LAB_II.exe.config
+C:\Users\Nico\Documents\GitHub\Clase_3\TP_1_LAB_II\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Documents\GitHub\Clase_3\TP_1_LAB_II\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.Form1.resources
+C:\Users\Nico\Documents\GitHub\Clase_3\TP_1_LAB_II\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.Properties.Resources.resources
+C:\Users\Nico\Documents\GitHub\Clase_3\TP_1_LAB_II\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.csproj.GenerateResource.Cache
+C:\Users\Nico\Documents\GitHub\Clase_3\TP_1_LAB_II\TP_1_LAB_II\bin\Debug\TP_1_LAB_II.exe
+C:\Users\Nico\Documents\GitHub\Clase_3\TP_1_LAB_II\TP_1_LAB_II\bin\Debug\TP_1_LAB_II.pdb
+C:\Users\Nico\Documents\GitHub\Clase_3\TP_1_LAB_II\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.exe
+C:\Users\Nico\Documents\GitHub\Clase_3\TP_1_LAB_II\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.pdb
