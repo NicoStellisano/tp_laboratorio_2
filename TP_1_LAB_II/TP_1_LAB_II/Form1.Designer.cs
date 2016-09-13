@@ -61,9 +61,9 @@
             this.lblResultado.AutoSize = true;
             this.lblResultado.Location = new System.Drawing.Point(13, 13);
             this.lblResultado.Name = "lblResultado";
-            this.lblResultado.Size = new System.Drawing.Size(13, 13);
+            this.lblResultado.Size = new System.Drawing.Size(35, 13);
             this.lblResultado.TabIndex = 2;
-            this.lblResultado.Text = "0";
+            this.lblResultado.Text = "label1";
             // 
             // cmbOperacion
             // 
@@ -104,7 +104,7 @@
             this.Controls.Add(this.btnOperar);
             this.Controls.Add(this.btnLimpiar);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Calculadora";
             this.ResumeLayout(false);
             this.PerformLayout();
 

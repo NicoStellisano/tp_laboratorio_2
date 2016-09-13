@@ -15,6 +15,7 @@ namespace TP_1_LAB_II
         public Form1()
         {
             InitializeComponent();
+            
         }
         /// <summary>
         /// Boton para poner en 0 los txtBox y lbl

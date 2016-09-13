@@ -8,3 +8,12 @@ C:\Users\Nico\Documents\GitHub\Clase_3\TP_1_LAB_II\TP_1_LAB_II\bin\Debug\TP_1_LA
 C:\Users\Nico\Documents\GitHub\Clase_3\TP_1_LAB_II\TP_1_LAB_II\bin\Debug\TP_1_LAB_II.pdb
 C:\Users\Nico\Documents\GitHub\Clase_3\TP_1_LAB_II\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.exe
 C:\Users\Nico\Documents\GitHub\Clase_3\TP_1_LAB_II\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.pdb
+D:\GitStellisano\TP_1_LAB_II\TP_1_LAB_II\bin\Debug\TP_1_LAB_II.exe.config
+D:\GitStellisano\TP_1_LAB_II\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.exe
+D:\GitStellisano\TP_1_LAB_II\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.pdb
+D:\GitStellisano\TP_1_LAB_II\TP_1_LAB_II\bin\Debug\TP_1_LAB_II.exe
+D:\GitStellisano\TP_1_LAB_II\TP_1_LAB_II\bin\Debug\TP_1_LAB_II.pdb
+D:\GitStellisano\TP_1_LAB_II\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.csprojResolveAssemblyReference.cache
+D:\GitStellisano\TP_1_LAB_II\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.Form1.resources
+D:\GitStellisano\TP_1_LAB_II\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.Properties.Resources.resources
+D:\GitStellisano\TP_1_LAB_II\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.csproj.GenerateResource.Cache
