@@ -21,16 +21,24 @@ namespace Clase_12_Library_2
         /// <summary>
         /// Retornará la cantidad de ruedas del vehículo
         /// </summary>
-         abstract short CantidadRuedas { get; set; }
-
+        public abstract short CantidadRuedas { get; set; }
+        /// <summary>
+        /// Crea el objeto Vehiculo (Constructor)
+        /// </summary>
+        /// <param name="patente"></param>
+        /// <param name="marca"></param>
+        /// <param name="color"></param>
         public Vehiculo(string patente ,EMarca marca ,ConsoleColor color)
     {
         this._color = color;
         this._patente = patente;
         this._marca = marca;
     }
-
-         public string Mostrar()
+        /// <summary>
+        /// Muestra los datos del vehículo
+        /// </summary>
+        /// <returns></returns>
+         public virtual string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 
@@ -50,7 +58,7 @@ namespace Clase_12_Library_2
         /// <returns></returns>
         public static bool operator ==(Vehiculo v1, Vehiculo v2)
         {
-            return (v1 == v2);
+            return (v1._patente == v2._patente);
         }
         /// <summary>
         /// Dos vehículos son distintos si su patente es distinta
@@ -60,7 +68,7 @@ namespace Clase_12_Library_2
         /// <returns></returns>
         public static bool operator !=(Vehiculo v1, Vehiculo v2)
         {
-            return !(v1 == v2);
+            return !(v1._patente == v2._patente);
         }
     }
 }

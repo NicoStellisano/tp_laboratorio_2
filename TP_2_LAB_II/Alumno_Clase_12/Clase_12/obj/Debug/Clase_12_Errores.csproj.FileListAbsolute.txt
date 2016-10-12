@@ -21,3 +21,7 @@ D:\TP_2_LAB_II\TP_2_LAB_II\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe.confi
 D:\TP_2_LAB_II\TP_2_LAB_II\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.exe
 D:\TP_2_LAB_II\TP_2_LAB_II\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.pdb
 D:\TP_2_LAB_II\TP_2_LAB_II\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12_Errores.csprojResolveAssemblyReference.cache
+D:\TP_2_LAB_II\TP_2_LAB_II\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe
+D:\TP_2_LAB_II\TP_2_LAB_II\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.pdb
+D:\TP_2_LAB_II\TP_2_LAB_II\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.dll
+D:\TP_2_LAB_II\TP_2_LAB_II\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.pdb

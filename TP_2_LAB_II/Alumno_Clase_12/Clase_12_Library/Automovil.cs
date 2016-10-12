@@ -16,7 +16,7 @@ namespace Clase_12_Library
         /// <summary>
         /// Los automoviles tienen 4 ruedas
         /// </summary>
-        protected override short CantidadRuedas
+        public override short CantidadRuedas
         {
             get
             {
@@ -36,7 +36,7 @@ namespace Clase_12_Library
 
             sb.AppendLine("AUTOMOVIL");
             sb.AppendLine(base.Mostrar());
-            sb.AppendLine("RUEDAS : {0}"+ this.CantidadRuedas);
+            sb.AppendLine("RUEDAS :"+ this.CantidadRuedas);
             sb.AppendLine("");
             sb.AppendLine("---------------------");
 

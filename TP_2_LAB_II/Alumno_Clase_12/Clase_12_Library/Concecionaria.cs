@@ -20,7 +20,7 @@ namespace Clase_12_Library
         {
             this._vehiculos = new List<Vehiculo>();
         }
-        public Concecionaria(int espacioDisponible)
+        public Concecionaria(int espacioDisponible):this()
         {
             this._espacioDisponible = espacioDisponible;
         }

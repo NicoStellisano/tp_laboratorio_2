@@ -10,6 +10,12 @@ namespace Clase_12_Library
 {
     public class Moto:Vehiculo
     {
+        /// <summary>
+        /// Crea el objeto Moto(Constructor)
+        /// </summary>
+        /// <param name="marca"></param>
+        /// <param name="patente"></param>
+        /// <param name="color"></param>
         public Moto(EMarca marca, string patente, ConsoleColor color)
             : base(patente, marca, color)
         {
@@ -17,7 +23,7 @@ namespace Clase_12_Library
         /// <summary>
         /// Las motos tienen 2 ruedas
         /// </summary>
-        protected override short CantidadRuedas
+        public override short CantidadRuedas
         {
             get
             {
@@ -36,7 +42,7 @@ namespace Clase_12_Library
 
             sb.AppendLine("MOTO");
             sb.AppendLine(base.Mostrar());
-            sb.AppendLine("RUEDAS : {0}" + this.CantidadRuedas);
+            sb.AppendLine("RUEDAS : " + this.CantidadRuedas);
             sb.AppendLine("");
             sb.AppendLine("---------------------");
 

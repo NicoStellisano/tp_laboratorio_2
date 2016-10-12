@@ -11,6 +11,7 @@ D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12_Library\obj\Debug\Clas
 D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12_Library\obj\Debug\Clase_12_Library.csprojResolveAssemblyReference.cache
 D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12_Library\obj\Debug\Clase_12_Library.dll
 D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12_Library\obj\Debug\Clase_12_Library.pdb
-D:\TP_2_LAB_II\TP_2_LAB_II\Alumno_Clase_12\Clase_12_Library\obj\Debug\Clase_12_Library.csprojResolveAssemblyReference.cache
 D:\TP_2_LAB_II\TP_2_LAB_II\Alumno_Clase_12\Clase_12_Library\obj\Debug\Clase_12_Library.dll
 D:\TP_2_LAB_II\TP_2_LAB_II\Alumno_Clase_12\Clase_12_Library\obj\Debug\Clase_12_Library.pdb
+D:\TP_2_LAB_II\TP_2_LAB_II\Alumno_Clase_12\Clase_12_Library\bin\Debug\Clase_12_Library.dll
+D:\TP_2_LAB_II\TP_2_LAB_II\Alumno_Clase_12\Clase_12_Library\bin\Debug\Clase_12_Library.pdb
