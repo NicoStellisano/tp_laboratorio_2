@@ -57,12 +57,15 @@ namespace Clase_12_Library
                 switch (tipoDeVehiculo)
                 {
                     case ETipo.Automovil:
+                        if (v is Automovil)
                         sb.AppendLine(v.Mostrar());
                         break;
                     case ETipo.Moto:
+                        if(v is Moto)
                         sb.AppendLine(v.Mostrar());
                         break;
                     case ETipo.Camion:
+                        if (v is Camion)
                         sb.AppendLine(v.Mostrar());
                         break;
                     default:

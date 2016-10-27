@@ -25,3 +25,11 @@ D:\TP_2_LAB_II\TP_2_LAB_II\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe
 D:\TP_2_LAB_II\TP_2_LAB_II\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.pdb
 D:\TP_2_LAB_II\TP_2_LAB_II\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.dll
 D:\TP_2_LAB_II\TP_2_LAB_II\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.pdb
+C:\Users\Nico\Downloads\tp_laboratorio_2-master\tp_laboratorio_2-master\TP_2_LAB_II\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe.config
+C:\Users\Nico\Downloads\tp_laboratorio_2-master\tp_laboratorio_2-master\TP_2_LAB_II\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.exe
+C:\Users\Nico\Downloads\tp_laboratorio_2-master\tp_laboratorio_2-master\TP_2_LAB_II\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.pdb
+C:\Users\Nico\Downloads\tp_laboratorio_2-master\tp_laboratorio_2-master\TP_2_LAB_II\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe
+C:\Users\Nico\Downloads\tp_laboratorio_2-master\tp_laboratorio_2-master\TP_2_LAB_II\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.pdb
+C:\Users\Nico\Downloads\tp_laboratorio_2-master\tp_laboratorio_2-master\TP_2_LAB_II\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.dll
+C:\Users\Nico\Downloads\tp_laboratorio_2-master\tp_laboratorio_2-master\TP_2_LAB_II\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.pdb
+C:\Users\Nico\Downloads\tp_laboratorio_2-master\tp_laboratorio_2-master\TP_2_LAB_II\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12_Errores.csprojResolveAssemblyReference.cache
