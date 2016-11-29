@@ -93,9 +93,18 @@ namespace Navegador
 
         private void btnIr_Click(object sender, EventArgs e)
         {
+             Uri direccion;
             try
             {
-                Uri direccion = new Uri(this.txtUrl.Text);
+                if (this.txtUrl.Text.Contains("https://") || this.txtUrl.Text.Contains("http://"))
+                {
+                   direccion = new Uri(this.txtUrl.Text);
+                }
+                else
+                {
+                    throw new Exception("Falta ingresar HTTP");
+                }
+                
 
                 if (direccion != null) 
                 {
@@ -108,9 +117,9 @@ namespace Navegador
                 }
                 
             }
-            catch (Exception)
+            catch (Exception exc)
             {
-                
+                MessageBox.Show(exc.ToString());
                 
             }
         }

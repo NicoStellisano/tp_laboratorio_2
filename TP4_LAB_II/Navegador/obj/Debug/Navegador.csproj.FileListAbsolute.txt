@@ -48,3 +48,17 @@ C:\Users\Nico\Downloads\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Nave
 C:\Users\Nico\Downloads\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Navegador\obj\Debug\Navegador.csproj.GenerateResource.Cache
 C:\Users\Nico\Downloads\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Navegador\obj\Debug\Navegador.exe
 C:\Users\Nico\Downloads\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Navegador\obj\Debug\Navegador.pdb
+C:\Users\Nico\Downloads\tp_laboratorio_2-master (1)\tp_laboratorio_2-master\TP4_LAB_II\Navegador\bin\Debug\Navegador.exe.config
+C:\Users\Nico\Downloads\tp_laboratorio_2-master (1)\tp_laboratorio_2-master\TP4_LAB_II\Navegador\obj\Debug\Navegador.exe
+C:\Users\Nico\Downloads\tp_laboratorio_2-master (1)\tp_laboratorio_2-master\TP4_LAB_II\Navegador\obj\Debug\Navegador.pdb
+C:\Users\Nico\Downloads\tp_laboratorio_2-master (1)\tp_laboratorio_2-master\TP4_LAB_II\Navegador\bin\Debug\Navegador.exe
+C:\Users\Nico\Downloads\tp_laboratorio_2-master (1)\tp_laboratorio_2-master\TP4_LAB_II\Navegador\bin\Debug\Navegador.pdb
+C:\Users\Nico\Downloads\tp_laboratorio_2-master (1)\tp_laboratorio_2-master\TP4_LAB_II\Navegador\bin\Debug\Archivos.dll
+C:\Users\Nico\Downloads\tp_laboratorio_2-master (1)\tp_laboratorio_2-master\TP4_LAB_II\Navegador\bin\Debug\Hilo.dll
+C:\Users\Nico\Downloads\tp_laboratorio_2-master (1)\tp_laboratorio_2-master\TP4_LAB_II\Navegador\bin\Debug\Archivos.pdb
+C:\Users\Nico\Downloads\tp_laboratorio_2-master (1)\tp_laboratorio_2-master\TP4_LAB_II\Navegador\bin\Debug\Hilo.pdb
+C:\Users\Nico\Downloads\tp_laboratorio_2-master (1)\tp_laboratorio_2-master\TP4_LAB_II\Navegador\obj\Debug\Navegador.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Downloads\tp_laboratorio_2-master (1)\tp_laboratorio_2-master\TP4_LAB_II\Navegador\obj\Debug\Navegador.frmHistorial.resources
+C:\Users\Nico\Downloads\tp_laboratorio_2-master (1)\tp_laboratorio_2-master\TP4_LAB_II\Navegador\obj\Debug\Navegador.frmWebBrowser.resources
+C:\Users\Nico\Downloads\tp_laboratorio_2-master (1)\tp_laboratorio_2-master\TP4_LAB_II\Navegador\obj\Debug\Navegador.Properties.Resources.resources
+C:\Users\Nico\Downloads\tp_laboratorio_2-master (1)\tp_laboratorio_2-master\TP4_LAB_II\Navegador\obj\Debug\Navegador.csproj.GenerateResource.Cache

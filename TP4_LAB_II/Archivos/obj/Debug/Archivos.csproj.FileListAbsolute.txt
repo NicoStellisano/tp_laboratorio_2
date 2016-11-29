@@ -15,3 +15,8 @@ C:\Users\Nico\Downloads\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Arch
 C:\Users\Nico\Downloads\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
 C:\Users\Nico\Downloads\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Archivos\obj\Debug\Archivos.dll
 C:\Users\Nico\Downloads\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Nico\Downloads\tp_laboratorio_2-master (1)\tp_laboratorio_2-master\TP4_LAB_II\Archivos\bin\Debug\Archivos.dll
+C:\Users\Nico\Downloads\tp_laboratorio_2-master (1)\tp_laboratorio_2-master\TP4_LAB_II\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Nico\Downloads\tp_laboratorio_2-master (1)\tp_laboratorio_2-master\TP4_LAB_II\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Downloads\tp_laboratorio_2-master (1)\tp_laboratorio_2-master\TP4_LAB_II\Archivos\obj\Debug\Archivos.dll
+C:\Users\Nico\Downloads\tp_laboratorio_2-master (1)\tp_laboratorio_2-master\TP4_LAB_II\Archivos\obj\Debug\Archivos.pdb
